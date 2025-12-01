@@ -18,8 +18,6 @@ document.addEventListener("keypress", function(){
 });
 
 
-///fffgfgfgfgfg
-
 function levelUp(){
     userSeq = [];
     level++;
